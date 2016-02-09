@@ -19,7 +19,7 @@ ssh -T git@github.com
 
 # Set your identity for the repository
 git config --global user.name "<user>"
-git config --global user.email <email>
+git config --global user.email "<email>"
 
 # Initialize the local git repo 
 git init test
