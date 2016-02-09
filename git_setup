@@ -39,9 +39,10 @@ git commit -m "Commit notes"
 # Display remotes
 git remote -v
 
+# This URI can be found on the repo page next to the protocol selection 
 # Add an HTTPS remote git repo by name (This did not work for me) 
 # git remote add test https://github.com/Mr-H/test.git
-# Add a SSH remote git repo repo by name 
+# Add a SSH remote git repo by name 
 git remote add test ssh://git@github.com/Mr-H/test.git
 
 # Create the new repository on github using the +
