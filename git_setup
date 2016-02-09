@@ -1,0 +1,58 @@
+### ssh set up`
+
+# Generate an SSH cert for connecting to Github
+ssh-keygen -t rsa -b 4096 -C "<email>"
+
+# Check if the ssh agent is running
+eval "$(ssh-agent -s)"
+
+# Add the key to the ssh agent
+ssh-add ~/.ssh/id_rsa
+
+# Export the public key so you can add it to github
+cat ~/.ssh/id_rsa.pub
+
+# Test the SSH connectivity 
+ssh -T git@github.com
+
+### git local set up
+
+# Set your identity for the repository
+git config --global user.name "<user>"
+git config --global user.email <email>
+
+# Initialize the local git repo 
+git init test
+
+# Go into the project and add project files
+cd test
+echo "do something today" >> testfile
+
+# Add the new file to the local git repo
+git add testfile
+
+# Commit the project checkout changes 
+git commit -m "Commit notes"
+
+### git remote set up 
+
+# Display remotes
+git remote -v
+
+# Add an HTTPS remote git repo by name (This did not work for me) 
+# git remote add test https://github.com/Mr-H/test.git
+# Add a SSH remote git repo repo by name 
+git remote add test ssh://git@github.com/Mr-H/test.git
+
+# Create the new repository on github using the +
+git fetch test
+
+# If there are items in the remote repo pull them before pushing the changes.
+git pull test master
+
+# Checkout the branch (Already checked out) 
+# git checkout master
+
+# Push the changes to remote git repo by name and branch 
+git push test master
+
