@@ -7,34 +7,34 @@ _Application Development Guide_ describes an application development path, start
 
 This guide is organized in the following sections:
 
-_Overview_: Building a Panther Application  
+####_Overview_: Building a Panther Application  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A comprehensive overview of Panther and its application development process.
 
-_Section One:_ Preparing for Development  
+####_Section One:_ Preparing for Development  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topics include the organization of your Panther distribution, a discussion of project requirements, how to set up your application servers and development clients, how to initialize and connect to your database engine and middleware, how to access your application libraries.
 
-_Section Two:_ Creating Application Building Blocks  
+####_Section Two:_ Creating Application Building Blocks  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An introduction to Panther's application components, including screens, widgets, repositories, menu bars, reports and service components.
 
-_Section Three:_ Writing the Programming Interface  
+####_Section Three:_ Writing the Programming Interface  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information about programming events in Panther and how to use JPL, C and Java for event processing.
 
-_Section Four:_ Defining the Application Design  
+####_Section Four:_ Defining the Application Design  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information about accessing widgets programmatically and manipulating the screen sequence in your Panther application.
 
-_Section Five:_ Accessing the Database  
+####_Section Five:_ Accessing the Database  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The protocol for Panther's interaction with your database engine-how data and status information is fetched from, or written to, the database, how to build screens that use the transaction manager, how the transaction manager gets its information and processes transactions, and how to customize your transaction manager applications.
 
-_Section Six:_ Testing Your Application  
+####_Section Six:_ Testing Your Application  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description of Panther's built-in debugger and instructions for using it to debug your application.
 
-_Section Seven:_ Deploying the Application  
+####_Section Seven:_ Deploying the Application  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information on building Panther development and production executables and for packaging your Panther application for distribution.
 
-_Section Eight:_ Advanced Development Topics  
+####_Section Eight:_ Advanced Development Topics  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topics related to Panther's hook functions, portability and internationalization.
 
-_Section Nine:_ Appendices  
+####_Section Nine:_ Appendices  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information about development utilities. Also includes descriptions of Panther's sample applications.
 
 ---
