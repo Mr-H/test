@@ -1,7 +1,7 @@
 
 [panther]: http://docs.prolifics.com/docs/panther/html/dev_html/images/xpantxtsb.gif.pagespeed.ic.DZ2Phlj8W-.png
 
-[panther] 
+![panther][panther] 
 
 ## About This Document
 
