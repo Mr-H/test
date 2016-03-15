@@ -68,7 +68,7 @@ The following documentation conventions are used throughout this document.
 | UPPERCASE TEXT | Indicates Panther logical keys.  Example:  XMIT |
 | **boldface text** | Indicates terms defined in the glossary. |
 | `monospace text` | Indicates code samples, commands and their options, directories, and file names and their extensions. Monospace text also indicates text that you must enter from the keyboard.  Examples:   #include <smdefs.h>  chmod u+w *  /usr/prolifics  prolifics.ini |
-| `_monospace italic text_` | Identifies variables in code representing the information you supply.  Example:  String expr  |
+| _`monospace italic text`_ | Identifies variables in code representing the information you supply.  Example:  String expr  |
 | `MONOSPACE UPPERCASE TEXT` | Indicates environment variables, logical operators, SQL keywords, mnemonics, or Panther constants.  Examples:  CLASSPATH  OR  { } Indicates a set of choices in a syntax line. One of the items should be selected. The braces themselves should never be typed.
 
 |
