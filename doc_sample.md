@@ -107,26 +107,26 @@ formlib [-v] library-name [file-list]...
 
 Indicates the omission of items from a code example or from a syntax line. The vertical ellipsis itself should never be typed.
 
+---
+###Contact Us!
 
-Contact Us!
 
-
-Your feedback on the Panther documentation is important to us. Send us e-mail at support@prolifics.com if you have questions or comments. In your e-mail message, please indicate that you are using the documentation for Panther 5.40.
+Your feedback on the Panther documentation is important to us. Send us e-mail at support@prolifics.com if you have questions or comments. In your e-mail message, please indicate that you are using the documentation for Panther.
 
 If you have any questions about this version of Panther, or if you have problems installing and running Panther, contact Customer Support via:
 
-Email at support@prolifics.com
+Email at mailto://support@prolifics.com
 
 Prolifics web site at http://profapps.prolifics.com
 
 When contacting Customer Support, be prepared to provide the following information:
 
-Your name, e-mail address, phone number, and fax number
+* Your name, e-mail address, phone number, and fax number
 
-Your company name and company address
+* Your company name and company address
 
-Your machine type
+* Your machine type
 
-The name and version of the product you are using
+* The name and version of the product you are using
 
-A description of the problem and the content of pertinent error messages
+* A description of the problem and the content of pertinent error messages
