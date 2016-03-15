@@ -37,12 +37,14 @@ Topics related to Panther's hook functions, portability and internationalization
 _Section Nine:_ Appendices
 Information about development utilities. Also includes descriptions of Panther's sample applications.
 
+---
 ###Documentation Web Site
 
 The Panther documentation web site includes manuals in HTML and PDF formats and the Java API documentation in Javadoc format. The web site enables you to search the HTML files for both the manuals and the Java API.
 
 Panther product documentation is available on the Prolifics corporate web site at http://docs.prolifics.com/docs/panther/index.htm.
 
+---
 ###How to Print the Document
 
 
@@ -52,6 +54,7 @@ A PDF version of this document is available from the Panther library page of the
 
 If you do not have the Adobe Acrobat Reader, you can get it for free from the Adobe web site at http://www.adobe.com.
 
+---
 ###Documentation Conventions
 
 
