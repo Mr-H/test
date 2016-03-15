@@ -61,8 +61,9 @@ If you do not have the Adobe Acrobat Reader, you can get it for free from the Ad
 The following documentation conventions are used throughout this document.  
 
 
-|Convention|Item|
-|Ctrl+Tab|Indicates that you must press two or more keys simultaneously. Initial capitalization indicates a physical key.|
+| Convention | Item |
+|------------|------|
+| Ctrl+Tab | Indicates that you must press two or more keys simultaneously. Initial capitalization indicates a physical key. |
 
 italics
 
