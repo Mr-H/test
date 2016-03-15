@@ -130,6 +130,6 @@ When contacting Customer Support, be prepared to provide the following informati
 * The name and version of the product you are using
 
 * A description of the problem and the content of pertinent error messages
-
----
+  
+  
 <sub><sup> &copy; 2016 Prolifics, All rights reserved. </sup></sub>
