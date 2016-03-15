@@ -75,6 +75,8 @@ The following documentation conventions are used throughout this document.
 
 |
 
+_Mike: I got bored making the table_
+
 Separates mutually exclusive choices in a syntax line. The symbol itself should never be typed.
 
 [ ]
@@ -115,7 +117,7 @@ Your feedback on the Panther documentation is important to us. Send us e-mail at
 
 If you have any questions about this version of Panther, or if you have problems installing and running Panther, contact Customer Support via:
 
-Email at mailto://support@prolifics.com
+Email at <mailto:support@prolifics.com>
 
 Prolifics web site at http://profapps.prolifics.com
 
