@@ -71,37 +71,18 @@ The following documentation conventions are used throughout this document.
 | **boldface text** | Indicates terms defined in the glossary. |
 | `monospace text` | Indicates code samples, commands and their options, directories, and file names and their extensions. Monospace text also indicates text that you must enter from the keyboard.  Examples:   #include <smdefs.h>  chmod u+w *  /usr/prolifics  prolifics.ini |
 | _`monospace italic text`_ | Identifies variables in code representing the information you supply.  Example:  String expr  |
-| `MONOSPACE UPPERCASE TEXT` | Indicates environment variables, logical operators, SQL keywords, mnemonics, or Panther constants.  Examples:  CLASSPATH  OR  { } Indicates a set of choices in a syntax line. One of the items should be selected. The braces themselves should never be typed.
+| `MONOSPACE UPPERCASE TEXT` | Indicates environment variables, logical operators, SQL keywords, mnemonics, or Panther constants.  Examples:  CLASSPATH  OR  { } Indicates a set of choices in a syntax line. One of the items should be selected. The braces themselves should never be typed. |
 
-|
 
-_Mike: I got bored making the table_
 
-Separates mutually exclusive choices in a syntax line. The symbol itself should never be typed.
+| | Separates mutually exclusive choices in a syntax line. The symbol itself should never be typed.|
 
-[ ]
+| [ ] | Indicates optional items in a syntax line. The brackets themselves should never be typed.  Example:
 
-Indicates optional items in a syntax line. The brackets themselves should never be typed.
+formlib [-v] library-name [file-list] |
 
-Example:
-
-formlib [-v] library-name [file-list]...
-
-...
-
-Indicates one of the following in a command line:
-
-That an argument can be repeated several times in a command line
-
-That the statement omits additional optional arguments
-
-That you can enter additional parameters, values, or other information
-
-The ellipsis itself should never be typed.
-
-Example:
-
-formlib [-v] library-name [file-list]...
+| ... | Indicates one of the following in a command line: That an argument can be repeated several times in a command line  
+That the statement omits additional optional arguments  That you can enter additional parameters, values, or other information  The ellipsis itself should never be typed.  Example:  formlib [-v] library-name [file-list]... |
 
 .
 .
