@@ -132,4 +132,4 @@ When contacting Customer Support, be prepared to provide the following informati
 * A description of the problem and the content of pertinent error messages
 
 ---
-######  &copy; 2016 Prolifics, All rights reserved. 
+<sub><sup> &copy; 2016 Prolifics, All rights reserved. </sup></sub>
