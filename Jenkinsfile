@@ -10,7 +10,7 @@ pipeline {
         }
         stage('Maven Build') {
           steps {
-            sh 'maven install'
+            sh 'echo "maven install step"'
           }
         }
       }
