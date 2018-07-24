@@ -2,8 +2,17 @@ pipeline {
   agent any
   stages {
     stage('Build') {
-      steps {
-        echo 'Build'
+      parallel {
+        stage('Build') {
+          steps {
+            echo 'Build'
+          }
+        }
+        stage('Maven Build') {
+          steps {
+            sh 'maven install'
+          }
+        }
       }
     }
     stage('Deploy') {
